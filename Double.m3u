@@ -7,7 +7,10 @@ http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226998/index.m
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv1/HD-8000k-1080P-cctv1
 
 #EXTINF:-1 tvg-id="cctv1 2" tvg-logo="cctv1.png",CCTV-1 综合 2
-http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225922/1.m3u8
+http://39.135.138.58:18890/PLTV/88888888/224/3221225642/index.m3u8
+
+#EXTINF:-1 tvg-id="cctv1 3" tvg-logo="cctv1.png",CCTV-1 综合 3
+http://180.97.123.180/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel1/index.m3u8
 
 #EXTINF:-1 tvg-id="cctv2" tvg-logo="cctv2.png",CCTV-2 财经
 http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv2/HD-8000k-1080P-cctv2
@@ -19,16 +22,16 @@ http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv3/HD-8000k-1080P-cctv3
 http://183.207.248.71:80/cntv/live1/cctv-4/cctv-4
 
 #EXTINF:-1 tvg-id="cctv5" tvg-logo="cctv5.png",CCTV-5 体育
-http://111.26.225.22/PLTV/2/224/3221225626/index.m3u8
+http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv5/HD-8000k-1080P-cctv5
 
 #EXTINF:-1 tvg-id="cctv5 2" tvg-logo="cctv5.png",CCTV-5 体育 2
-http://39.134.39.39/PLTV/88888888/224/3221226146/index.m3u8
+http://180.97.123.180/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel5/index.m3u8
 
 #EXTINF:-1 tvg-id="cctv5plus" tvg-logo="cctv5+.png",CCTV-5+ 体育赛事
-http://117.136.154.98/PLTV/88888888/224/3221225512/index.m3u8
+http://39.134.65.175/PLTV/88888888/224/3221225507/index.m3u8
 
 #EXTINF:-1 tvg-id="cctv5plus-2" tvg-logo="cctv5+.png",CCTV-5+ 2
-http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
+http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
 
 #EXTINF:-1 tvg-id="cctv6" tvg-logo="cctv6.png",CCTV-6 电影
 http://183.207.248.71:80/cntv/live1/cctv-6/cctv-6
